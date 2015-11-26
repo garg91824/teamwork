@@ -1,0 +1,1 @@
+Sources of GPL releases of Teamwork. To compile the sources, use all the jars of the Teamwork web application. Teamwork can be downloaded from http://www.twproject.com/download.page.
